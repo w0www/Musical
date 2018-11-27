@@ -1,0 +1,7 @@
+<index-page>
+  <prepend-content-body:>
+    <% artistas = Artist.all.*.name %>
+    <filter-menu param-name="artist" options="&artistas" />
+  </prepend-content-body:>
+
+</index-page>
