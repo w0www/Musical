@@ -1,0 +1,14 @@
+== README
+
+Requerimientos:
+  ruby 2.3.7
+
+Instalacion:
+  Ejecutar "bundle" para instalar todas las gemes.
+  Ejecutar "rake db:seed" para cargar la base de datos
+  Arrancar la aplicación y disfrutarla.
+
+
+
+
+
